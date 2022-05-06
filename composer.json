@@ -5,6 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0|^8.1",
+        "arcanedev/log-viewer": "^9.0",
         "darkaonline/l5-swagger": "^8.3",
         "intervention/image": "^2.5",
         "juzaweb/config": "^2.2",
