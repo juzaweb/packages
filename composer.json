@@ -1,6 +1,5 @@
 {
-    "name": "juzaweb/juzacms",
-    "type": "package",
+    "name": "juzaweb/packages",
     "description": "Juzaweb CMS packages",
     "license": "MIT",
     "require": {
