@@ -8,7 +8,6 @@
         "darkaonline/l5-swagger": "^8.3",
         "doctrine/dbal": "^3.3",
         "intervention/image": "^2.5",
-        "inertiajs/inertia-laravel": "^0.6.0",
         "juzaweb/config": "^2.2",
         "juzaweb/laravel-chunk-upload": "^1.5",
         "juzaweb/laravel-translation-loader": "^2.0",
@@ -16,7 +15,6 @@
         "laravel/socialite": "^5.5",
         "prettus/l5-repository": "^2.8",
         "rcrowe/twigbridge": "^0.14",
-        "rennokki/laravel-eloquent-query-cache": "^3.1",
         "spatie/image-optimizer": "^1.4",
         "spatie/laravel-backup": "^8.1",
         "spatie/laravel-feed": "^4.1"
