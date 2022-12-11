@@ -14,7 +14,6 @@
         "juzaweb/sitemap": "^9.0",
         "laravel/socialite": "^5.5",
         "laravel/passport": "^10.4",
-        "prettus/l5-repository": "^2.8",
         "rcrowe/twigbridge": "^0.14",
         "spatie/image-optimizer": "^1.4",
         "spatie/laravel-backup": "^8.1",
