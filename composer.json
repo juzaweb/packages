@@ -19,6 +19,7 @@
         "spatie/laravel-backup": "^8.1",
         "spatie/laravel-feed": "^4.1",
         "league/fractal": "^0.20.1",
-        "kirschbaum-development/eloquent-power-joins": "^3.2"
+        "kirschbaum-development/eloquent-power-joins": "^3.2",
+        "google/apiclient": "^2.13"
     }
 }
